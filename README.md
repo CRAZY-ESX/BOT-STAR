@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="img/logo.png" width="250" height="250">
+  <img src="https://i.postimg.cc/3w1hmSXR/Picsart-24-02-18-01-52-47-597.jpg" width="720" height="433">
 </p>
 
 <div align="center">
