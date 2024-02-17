@@ -9,6 +9,9 @@
   <img src="https://i.postimg.cc/3w1hmSXR/Picsart-24-02-18-01-52-47-597.jpg" width="720" height="433">
 </p>
 
+<h1><b></b>USER:- BOT-STAR </h1>b></h1>
+<h1><b>PASSWORD:- THE ANON 69 </b></h1>
+
 <div align="center">
   <
 </div>
