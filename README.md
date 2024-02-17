@@ -1,4 +1,6 @@
 <h1 align="center">📡 BOT-STAR VVIP DDOS</h1> 
+
+<h1>OUT TELEGRAM CHANNEL [ https://t.me/THEANON69</h1>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Made%20with-Python And Nodejs-1f425f.svg"> <img src="https://img.shields.io/github/forks/CRAZY-ESX/BOT-STAR?style=social"> <img src="https://img.shields.io/github/stars/CRAZY-ESX/BOT-STAR?style=social">
