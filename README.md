@@ -13,7 +13,7 @@
 <h1><b>PASSWORD:- THE ANON 69 </b></h1>
 
 <div align="center">
-  <
+  
 </div>
 <p align="center">
   <img src="img/preview.gif">
