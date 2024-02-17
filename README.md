@@ -14,28 +14,6 @@
 </div>
 <p align="center">
   <img src="img/preview.gif">
-</p>
-
-<div align="center">
-  <h1>Installation</h1>
-  <img src="img/windows.png" width="80" height="80">
-  <h2>Windows</h2><br>
-</div>
-
-Download Python 3.10 [here](https://www.python.org/downloads/), open the installer and click on `add python to PATH`. Next, download `overload` <a href="https://github.com/7zx/overload/archive/refs/heads/main.zip" target="blank">here</a> and open CMD or PowerShell in its directory. Now you need to create a Virtual Enviroment for the application; if you have `make` utility on your system just execute:
-
-  ```
-  make setup
-  make run
-  ```
-
-If you don't have it, then execute:
-
-  ```
-  curl -sSL https://install.python-poetry.org | python3
-  poetry install --without dev
-  poetry run python3 overload.py
-  ```
 
   ---
 <div align="center">
@@ -50,10 +28,8 @@ git clone https://github.com/CRAZY-ESX/BOT-STAR
 cd BOT-STAR 
 unzip BOT-STAR.zip
 unzip 2nd.zip
-puthon BOT-STAR.py
+python BOT-STAR.py
 
-make setup
-make run
 ```
 
 ---
@@ -71,7 +47,7 @@ git clone https://github.com/CRAZY-ESX/BOT-STAR
 cd BOT-STAR 
 unzip BOT-STAR.zip
 unzip 2nd.zip
-puthon BOT-STAR.py
+python BOT-STAR.py
 
 ```
 
