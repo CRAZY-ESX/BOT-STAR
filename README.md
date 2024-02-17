@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <h1>💻 Preview</h1>
+  <
 </div>
 <p align="center">
   <img src="img/preview.gif">
@@ -18,7 +18,7 @@
   ---
 <div align="center">
   <br>
-  <img src="img/linux.png" width="100" height="80"><h2>Linux</h2><br>
+  <h2>Linux</h2><br>
 </div>
 
 ```
@@ -35,8 +35,7 @@ python BOT-STAR.py
 ---
 <div align="center">
   <br>
-  <img src="img/termux.png" width="50" height="50">
-  <h2>Termux</h2><br>
+    <h2>Termux</h2><br>
 </div>
 
 ```
