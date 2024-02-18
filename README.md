@@ -12,7 +12,7 @@
 </p>
 
 <h1><b></b>USER:- https://t.me/THEANON69/4836</h1>b></h1>
-<h1><b>PASSWORD:- THE ANON 69 </b></h1>
+<h1><b>PASSWORD:- https://t.me/THEANON69/4836 </b></h1>
 
 <div align="center">
   
